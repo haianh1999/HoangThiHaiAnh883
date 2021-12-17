@@ -163,3 +163,8 @@ E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\HoangThiHaiAnh883.dll
 E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\ref\HoangThiHaiAnh883.dll
 E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\HoangThiHaiAnh883.pdb
 E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\HoangThiHaiAnh883.genruntimeconfig.cache
+E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\Razor\Views\CompamyHthA883\Create.cshtml.g.cs
+E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\Razor\Views\CompamyHthA883\Delete.cshtml.g.cs
+E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\Razor\Views\CompamyHthA883\Details.cshtml.g.cs
+E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\Razor\Views\CompamyHthA883\Edit.cshtml.g.cs
+E:\HoangThiHaiAnh883\HoangThiHaiAnh883\obj\Debug\net5.0\Razor\Views\CompamyHthA883\Index.cshtml.g.cs

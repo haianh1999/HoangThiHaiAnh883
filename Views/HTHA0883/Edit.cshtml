@@ -1,0 +1,39 @@
+@model HoangThiHaiAnh883.Models.HTHA0883
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>HTHA0883</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="HTHAID" />
+            <div class="form-group">
+                <label asp-for="HTHAName" class="control-label"></label>
+                <input asp-for="HTHAName" class="form-control" />
+                <span asp-validation-for="HTHAName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HTHAgender" class="control-label"></label>
+                <input asp-for="HTHAgender" class="form-control" />
+                <span asp-validation-for="HTHAgender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
